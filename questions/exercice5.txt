@@ -1,0 +1,7 @@
+Question 5 (Niveau 1):
+Définissez une class qui aura deux methodes :
+- setData : prendre a valeur tapé sur la console
+- getData : afficher en majuscule les données recu.
+
+Astuces: 
+Vous pouvez utiliser un constructeur, pour cela , utilisez __init__
