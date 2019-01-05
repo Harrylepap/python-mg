@@ -1,0 +1,6 @@
+Question 1 (Niveau 1):
+Ecrire un programme qui peut retrouver tous les nombres divisible par 5 mais qui n'est pas multiple de 5 entre 2000 et 3200 (qui seront compris)
+
+Astuces: 
+Vous pouvez utiliser la methode range(nombreDebut, nombreFin)
+Consider use range(#begin, #end) method
