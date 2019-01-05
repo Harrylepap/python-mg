@@ -1,0 +1,9 @@
+Question 4 (Niveau 1):
+Ecrire un programme qui accepte une sequence de nombre séparé par des virgules depuis la console afin de generer une liste et tuple qui contiendra tous les nombres entrés.
+Supposons que l'utilisateur entre : 18, 07, 96, 14, 05, 16
+La sortie sera la suivante : 
+['18', '07', '96', '14', '05', '16']
+('18', '07', '96', '14', '05', '16')
+
+Astuces: 
+Avec la methode tuple(), on peut convertir une liste en tuples
