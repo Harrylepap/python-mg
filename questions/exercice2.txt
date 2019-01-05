@@ -1,4 +1,4 @@
-Question 1 (Niveau 1):
+Question 2 (Niveau 1):
 Ecrire un programme qui peut calculer le factoriel d'un nombre donné. Le resultat attendu devra être afficher sur une seule ligne séparé par une firgules.
 Supposons que le INPUT donnée à l'application sera 8
 
