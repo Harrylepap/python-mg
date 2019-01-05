@@ -1,3 +1,4 @@
+#!/bin/python3.6
 dataUtilisateur = int(input("Entrez le nombre magique : "))
 resultats = dict()
 

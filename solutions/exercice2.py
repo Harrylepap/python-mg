@@ -1,3 +1,5 @@
+#!/bin/python3.6
+
 def factoriel(nombreDonnee):
           if  nombreDonnee == 0 :
                     return 1
