@@ -1,0 +1,7 @@
+Question 3 (Niveau 1):
+Avec un nombre entier n, ecrire un programme pour générer un dictionnaire contenant(i, i*i) comme ca, le nombre resultat devra etre entre 1 et n. Et alors, le programme pourra afficher le dictionnaire.
+Supposant que le nombre magique sera : 8, le dictionnaire sera :
+{1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6: 36, 7: 49, 8: 64}
+
+Astuces: 
+La methode dict() peut initialiser un dictionnaire sous python
