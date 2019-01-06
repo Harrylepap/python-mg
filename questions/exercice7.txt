@@ -1,0 +1,11 @@
+Question 6 (Niveau 2):
+Ecrivez un programme qui prend 2 chiffres, X, Y en entrée et génère un tableau à 2 dimensions. La valeur de l'élément dans la i-ème ligne et la j-ième colonne du tableau doit être i * j.
+Remarque: i = 0,1 .., X-1; j = 0,1, ¡Y-1.
+Exemple
+Supposons que les entrées suivantes soient données au programme:
+3,5
+Ensuite, le résultat du programme devrait être:
+[[0, 0, 0, 0, 0], [0, 1, 2, 3, 4], [0, 2, 4, 6, 8]]
+
+Astuces: 
+Remarque: Si des données d'entrée sont fournies à la question, il faut supposer qu'il s'agit d'une entrée de console sous forme séparée par des virgules.
