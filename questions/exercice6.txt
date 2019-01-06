@@ -1,0 +1,11 @@
+Question 6 (Niveau 2):
+Ecrivez un programme qui calcule et affiche la valeur selon la formule donnée: Q = racine carrée de [(2 * C * D) / H]
+Voici les valeurs fixes de C et H: C est 50. H est 30.
+D est la variable dont les valeurs doivent être entrées dans votre programme dans une séquence séparée par des virgules.
+Supposons que la séquence d’entrée suivante, séparée par des virgules, soit donnée au programme:
+100,150,180
+Le résultat du programme devrait être:
+18,22,24
+
+Astuces: 
+Si la sortie reçue est sous forme décimale, elle doit être arrondie à sa valeur la plus proche (par exemple, si la sortie reçue est 26.0, elle doit être imprimée sous la forme 26). Si des données d’entrée sont fournies à la question, il faut supposer qu’il s’agit d’une entrée de console.
